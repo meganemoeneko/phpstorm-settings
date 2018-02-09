@@ -4,11 +4,4 @@
     <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
   </component>
-  <component name="Registry">
-    <entry key="search.everywhere.settings" value="true" />
-    <entry key="tabs.alphabetical" value="true" />
-    <entry key="undo.globalUndoLimit" value="10000000" />
-    <entry key="undo.documentUndoLimit" value="10000000" />
-    <entry key="actionSystem.keyGestures.enabled" value="true" />
-  </component>
 </application>
