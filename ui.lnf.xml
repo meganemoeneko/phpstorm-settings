@@ -3,5 +3,6 @@
     <option name="FONT_FACE" value="Yu Gothic UI Regular" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="smoothScrolling" value="true" />
   </component>
 </application>
