@@ -2,7 +2,10 @@
   <component name="UISettings">
     <option name="FONT_FACE" value="Yu Gothic UI Regular" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="MAX_CLIPBOARD_CONTENTS" value="100" />
+    <option name="RECENT_FILES_LIMIT" value="500" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="smoothScrolling" value="true" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
