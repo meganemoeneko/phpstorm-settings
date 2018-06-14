@@ -1,0 +1,3 @@
+<keymap version="1" name="Default コピー 1" parent="$default">
+  <action id="EditorDeleteLine" />
+</keymap>
